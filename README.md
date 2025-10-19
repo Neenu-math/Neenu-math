@@ -1,6 +1,6 @@
 # Hi, I'm Neenu! 👋
 
-🎓 3rd Year Computer Science Student at Sree Buddha College of Engineering, Pattoor.  
+🎓 4th Year Computer Science Student at Sree Buddha College of Engineering, Pattoor.  
 🚀 Campus Lead at μLearn SBC, passionate about community-driven learning.  
 🌥️ Interned in Cloud Computing, exploring the world of technology!  
 🛠️ Currently working on strengthening my skills in web development, cloud, and leadership.  
